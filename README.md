@@ -1,7 +1,8 @@
 # Featurisation_-_Model_Tuning_Semiconductor_manufacturing
 To  build a classifier to predict the Pass/Fail yield of a particular process entity and analyze whether all the features are required to build the model or not.
 
-Context:  A complex modern semiconductor manufacturing process is normally under constant surveillance via the monitoring of
+#Context:  
+A complex modern semiconductor manufacturing process is normally under constant surveillance via the monitoring of
 signals/variables collected from sensors and or process measurement points. However, not all of these signals are equally valuable in a
 specific monitoring system. The measured signals contain a combination of useful information, irrelevant information as well as noise.
 Engineers typically have a much larger number of signals than are actually required. If we consider each type of signal as a feature, then
